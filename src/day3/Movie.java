@@ -5,4 +5,5 @@ public class Movie {
     // they have decided
     //to continue the movie
     //from 22 mins
+    // added some awesome functionality
 }
