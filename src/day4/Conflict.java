@@ -7,4 +7,6 @@ public class Conflict {
     // i can type anything
     // this is collection branch content
 
+    //this is the change colllection2
+
 }
